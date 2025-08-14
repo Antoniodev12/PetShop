@@ -27,7 +27,8 @@ export function Hero() {
               felicidade do seu amigo de quatro patas.
             </p>
             <a
-              href="#"
+              target="_blank"
+              href={`https://wa.me/82416583?text=Olá vim pelo site e gostaria de mais informações.`}
               className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
             >
               Contato via WhatsApp
